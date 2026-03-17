@@ -299,3 +299,18 @@ body {
   border-radius: 12px;
   backdrop-filter: blur(8px);
 }
+
+@media (max-width: 768px) {
+  .header {
+    padding: 8px;
+  }
+
+  .header ul {
+    gap: 10px;
+  }
+
+  .header a {
+    font-size: 0.9rem;
+    padding: 5px;
+  }
+}
