@@ -104,11 +104,20 @@ function Projects() {
 
         <div className="filter-chips">
           {quickFilters.map((filter) => (
-            <button key={filter} type="button" onClick={() => setQuery(query === filter ? "" : filter)}>
+            <button 
+              key={filter} 
+              type="button" 
+              className={query === filter ? "active" : ""} 
+              onClick={() => setQuery(query === filter ? "" : filter)
+            }>
               {filter}
             </button>
           ))}
-          {query && <button type="button" onClick={() => setQuery("")}>Clear</button>}
+          {query && (
+            <button type="button" onClick={() => setQuery("")}>
+                Clear
+              </button>
+          )}
         </div>
       </div>
 
