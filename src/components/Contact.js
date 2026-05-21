@@ -1,4 +1,8 @@
+import { useState } from "react";
+
 function Contact() {
+    const [showEmail, setShowEmail] = useState(false);
+    const email = "shre97@hotmail.com";
     return (
         <section id="contact" className="section contact">
             <h1 className="title">Get in Touch</h1>
@@ -8,8 +12,25 @@ function Contact() {
             </h2>
 
             <div className="contact-links">
-                <a href="mailto:shre97@hotmail.com">
-                    📧 Email
+                {!showEmail ? (
+                    <button 
+                        className="contact-link"
+                        onClick={() => setShowEmail(true)}
+                    >
+                        📧 Email
+                    </button>
+                ) : (
+                    <a href={`mailto:${email}`}>
+                        📧 {email}
+                    </a>
+                )}
+
+                <a 
+                    href="https://www.behance.net/shre97" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                >
+                    🎨 Behance
                 </a>
 
                 <a 
@@ -21,14 +42,6 @@ function Contact() {
                 </a>
 
                 <a 
-                    href="https://www.linkedin.com/in/shreyestripathi" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                >
-                    💼 LinkedIn
-                </a>
-
-                <a 
                     href="https://www.youtube.com/@shreyezz_artwork" 
                     target="_blank" 
                     rel="noopener noreferrer"
@@ -37,12 +50,13 @@ function Contact() {
                 </a>
 
                 <a 
-                    href="https://www.behance.net/shre97" 
+                    href="https://www.linkedin.com/in/shreyestripathi" 
                     target="_blank" 
                     rel="noopener noreferrer"
                 >
-                    🎨 Behance
+                    💼 LinkedIn
                 </a>
+
             </div>
         </section>
     );

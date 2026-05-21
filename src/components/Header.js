@@ -9,10 +9,10 @@ function Header() {
                     <NavLink to="/about">About</NavLink>
                 </li>
                 <li>
-                    <NavLink to="/skills">Skills</NavLink>
+                    <NavLink to="/projects">Projects</NavLink>
                 </li>
                 <li>
-                    <NavLink to="/projects">Projects</NavLink>
+                    <NavLink to="/skills">Skills</NavLink>
                 </li>
                 <li>
                     <NavLink to="/contact">Contact</NavLink>

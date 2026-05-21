@@ -6,7 +6,7 @@ function Home() {
             <Effects />
             <div className="home-content">
                 <h1>
-                    <span className="highlight">Shreyezz</span>
+                    <span className="highlight">SHREYEZZ</span>
                 </h1>
                 <h3>
                     VFX Artist
