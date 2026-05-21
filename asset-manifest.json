@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.ee1b7665.css",
-    "main.js": "/Portfolio/static/js/main.9610f259.js",
+    "main.css": "/Portfolio/static/css/main.d036bcc3.css",
+    "main.js": "/Portfolio/static/js/main.716d8778.js",
     "static/media/Shadingass3.jpg": "/Portfolio/static/media/Shadingass3.6d8ed10c1876cc244588.jpg",
     "static/media/Shadingass.jpg": "/Portfolio/static/media/Shadingass.f963b12adc6887c73740.jpg",
     "static/media/Race_car_unviel_1.jpg": "/Portfolio/static/media/Race_car_unviel_1.b88cbcb6cc30eabd28a3.jpg",
@@ -18,11 +18,11 @@
     "static/media/cyberDark.jpeg.jpg": "/Portfolio/static/media/cyberDark.jpeg.ec72e11860c91e810531.jpg",
     "static/media/Shreyes.jpg": "/Portfolio/static/media/Shreyes.9b84ba72fb7953678189.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.ee1b7665.css.map": "/Portfolio/static/css/main.ee1b7665.css.map",
-    "main.9610f259.js.map": "/Portfolio/static/js/main.9610f259.js.map"
+    "main.d036bcc3.css.map": "/Portfolio/static/css/main.d036bcc3.css.map",
+    "main.716d8778.js.map": "/Portfolio/static/js/main.716d8778.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee1b7665.css",
-    "static/js/main.9610f259.js"
+    "static/css/main.d036bcc3.css",
+    "static/js/main.716d8778.js"
   ]
 }
