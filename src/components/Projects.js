@@ -3,10 +3,14 @@ import VideoCard from "./VideoCard";
 function Projects() {
   const videos = [
     "ihaenKN_878",
-    "DKOEG_h87Yc",
-    "PRsp7xV_XdM",
     "k5rlPFpS6yI",
+    "DKOEG_h87Yc",
     "e6pfo5k6AtM",
+    "PRsp7xV_XdM",
+    "aKoxmXmp5rM",
+    "GZCBPSRHOwg",
+    "B7s-rbg2C_8",
+    "3bLzyQvFlyg",
     "qF7dczHS1Pk",
   ];
 
