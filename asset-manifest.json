@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d036bcc3.css",
-    "main.js": "/Portfolio/static/js/main.716d8778.js",
-    "static/media/Shadingass3.jpg": "/Portfolio/static/media/Shadingass3.6d8ed10c1876cc244588.jpg",
-    "static/media/Shadingass.jpg": "/Portfolio/static/media/Shadingass.f963b12adc6887c73740.jpg",
-    "static/media/Race_car_unviel_1.jpg": "/Portfolio/static/media/Race_car_unviel_1.b88cbcb6cc30eabd28a3.jpg",
-    "static/media/carwali.png": "/Portfolio/static/media/carwali.ede1a0547c0386274256.png",
-    "static/media/Race_car_bfunviel_1.jpg": "/Portfolio/static/media/Race_car_bfunviel_1.e38a8abf02669d74e5ea.jpg",
-    "static/media/pythonass.jpg": "/Portfolio/static/media/pythonass.fcd809c52e3775e8b1a9.jpg",
-    "static/media/Snapshot.jpg": "/Portfolio/static/media/Snapshot.794a1429ab36e2535de1.jpg",
-    "static/media/ass1.jpg": "/Portfolio/static/media/ass1.cc95f011e0f5e750622e.jpg",
-    "static/media/Snapshot1.jpg": "/Portfolio/static/media/Snapshot1.6602206c181a8f2c3acb.jpg",
-    "static/media/denoise.jpg": "/Portfolio/static/media/denoise.256c7134873ab52ac837.jpg",
-    "static/media/Cyber1.jpeg": "/Portfolio/static/media/Cyber1.f227b72a2492da4b34d4.jpeg",
-    "static/media/fur_boy.jpg": "/Portfolio/static/media/fur_boy.07b0b75cc0f09e236eef.jpg",
-    "static/media/furboy.jpg": "/Portfolio/static/media/furboy.a85bb8c1578a007d01e6.jpg",
-    "static/media/cyberDark.jpeg.jpg": "/Portfolio/static/media/cyberDark.jpeg.ec72e11860c91e810531.jpg",
-    "static/media/Shreyes.jpg": "/Portfolio/static/media/Shreyes.9b84ba72fb7953678189.jpg",
-    "index.html": "/Portfolio/index.html",
-    "main.d036bcc3.css.map": "/Portfolio/static/css/main.d036bcc3.css.map",
-    "main.716d8778.js.map": "/Portfolio/static/js/main.716d8778.js.map"
+    "main.css": "./static/css/main.d036bcc3.css",
+    "main.js": "./static/js/main.b9a78665.js",
+    "static/media/Shadingass3.jpg": "./static/media/Shadingass3.6d8ed10c1876cc244588.jpg",
+    "static/media/Shadingass.jpg": "./static/media/Shadingass.f963b12adc6887c73740.jpg",
+    "static/media/Race_car_unviel_1.jpg": "./static/media/Race_car_unviel_1.b88cbcb6cc30eabd28a3.jpg",
+    "static/media/carwali.png": "./static/media/carwali.ede1a0547c0386274256.png",
+    "static/media/Race_car_bfunviel_1.jpg": "./static/media/Race_car_bfunviel_1.e38a8abf02669d74e5ea.jpg",
+    "static/media/pythonass.jpg": "./static/media/pythonass.fcd809c52e3775e8b1a9.jpg",
+    "static/media/Snapshot.jpg": "./static/media/Snapshot.794a1429ab36e2535de1.jpg",
+    "static/media/ass1.jpg": "./static/media/ass1.cc95f011e0f5e750622e.jpg",
+    "static/media/Snapshot1.jpg": "./static/media/Snapshot1.6602206c181a8f2c3acb.jpg",
+    "static/media/denoise.jpg": "./static/media/denoise.256c7134873ab52ac837.jpg",
+    "static/media/Cyber1.jpeg": "./static/media/Cyber1.f227b72a2492da4b34d4.jpeg",
+    "static/media/fur_boy.jpg": "./static/media/fur_boy.07b0b75cc0f09e236eef.jpg",
+    "static/media/furboy.jpg": "./static/media/furboy.a85bb8c1578a007d01e6.jpg",
+    "static/media/cyberDark.jpeg.jpg": "./static/media/cyberDark.jpeg.ec72e11860c91e810531.jpg",
+    "static/media/Shreyes.jpg": "./static/media/Shreyes.9b84ba72fb7953678189.jpg",
+    "index.html": "./index.html",
+    "main.d036bcc3.css.map": "./static/css/main.d036bcc3.css.map",
+    "main.b9a78665.js.map": "./static/js/main.b9a78665.js.map"
   },
   "entrypoints": [
     "static/css/main.d036bcc3.css",
-    "static/js/main.716d8778.js"
+    "static/js/main.b9a78665.js"
   ]
 }
